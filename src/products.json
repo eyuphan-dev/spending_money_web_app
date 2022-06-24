@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title" :"sakız",
+        "price" :15,
+        "image" :"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30082462/30082462_0_MC/8796797599794_1555415441220.jpg"
+
+    },
+    {
+        "id":2,
+        "title" :"kalem",
+        "price" :40,
+        "image":"https://i.dr.com.tr/cache/500x400-0/originals/0001929205002-1.jpg"
+    },
+    {
+        "id":3,
+        "title" :"defter",
+        "price" :50,
+        "image":"https://www.yesilaymarket.com/no-filter-ogrenci-defteri-defterler-yesilay-2099-17-B.jpg"
+
+    },
+    {
+        "id":4,
+        "title" :"çanta",
+        "price" :500,
+        "image":"https://www.enderspor.com/UserFiles/ProductImages/0/ba5217/orj/nike-hayward-futura-2.0-sirt-cantasi-021-81716.jpg"
+
+    },
+    {
+        "id":"5",
+        "title":"bisiklet",
+        "price":20000,
+        "image":"https://belderia.com/wp-content/uploads/2021/08/XC-200.png"
+
+
+    },
+    {
+        "id":"6",
+        "title":"araba",
+        "price":1500000,
+        "image":"https://cdn.motor1.com/images/mgl/KqNVl/s1/2021-jaguar-f-type.jpg"
+
+    }
+]
