@@ -17,7 +17,7 @@ Bu proje, kullanıcıların günlük harcamalarını kayıt altına alabileceği
 Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsin:
 
 ```bash
-git clone https://github.com/kullaniciadi/spending_money_web_app.git
+git clone https://github.com/eyuphan-dev/spending_money_web_app.git
 cd spending_money_web_app
 npm install
 npm start
